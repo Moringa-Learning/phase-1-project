@@ -1,0 +1,28 @@
+{
+  "project": [
+    {
+      "id": 1,
+      "image": "http://res.cloudinary.com/dpxieliji/image/upload/v1626775520/ney0su5rytspsultdmlg.png",
+      "title": "Akan Names",
+      "livesite": "https://layersony.github.io/birthday-akan-name/",
+      "gitRepo": "https://github.com/layersony/birthday-akan-name",
+      "language": "CSS, Javascript, HTML"
+    },
+    {
+      "id": 2,
+      "image": "http://res.cloudinary.com/dpxieliji/image/upload/v1626775422/gicbixorso9pavylnunv.png",
+      "title": "Pizza Plaza",
+      "livesite": "https://layersony.github.io/Maingi_pizza_plaza/",
+      "gitRepo": "https://github.com/layersony/Maingi_pizza_plaza",
+      "language": "CSS, Javascript, HTML"
+    },
+    {
+      "id": 3,
+      "image": "http://res.cloudinary.com/dpxieliji/image/upload/v1626729418/vc7vpx53d9ruwvwzimgj.png",
+      "title": "Portfolio",
+      "livesite": "https://samuelmaingi.herokuapp.com/",
+      "gitRepo": "https://samuelmaingi.herokuapp.com/",
+      "language": "CSS, Javascript, HTML"
+    }
+  ]
+}
