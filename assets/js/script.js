@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const projectUrl = "http://backendproject.cybpact.com/"
+  const projectUrl = "https://backendproject.cybpact.com/"
 
   // containers
   let projectContainer = document.getElementById('projectContainer')
