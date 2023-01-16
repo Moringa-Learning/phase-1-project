@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const projectUrl = "https://phase2backend.herokuapp.com/project"
+  const projectUrl = "http://backendproject.cybpact.com/"
 
   // containers
   let projectContainer = document.getElementById('projectContainer')
